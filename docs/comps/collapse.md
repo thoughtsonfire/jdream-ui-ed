@@ -57,3 +57,10 @@ export default {
 </script>
 ```
 :::
+
+## 参数
+
+|  参数  |  说明  |  类型    |  默认值  |  可选值  |
+|:------:|:------:|:--------:|:--------:|:--------:|
+|  show  |控制显示和隐藏|Boolean|true|true/false|
+|transition|过渡的属性|String|"height .5s linear"|-|
